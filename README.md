@@ -66,14 +66,6 @@ I am a strong advocate of learning in public. This repository will serve as a do
 
 I will be updating this repository regularly with new content, code, and learnings from the zoomcamp. Stay tuned for more exciting updates!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Feel free to reach out if you have any questions or if you want to collaborate on any of the projects!
-
 Happy Learning!
 
 Brandon S. Copeland
