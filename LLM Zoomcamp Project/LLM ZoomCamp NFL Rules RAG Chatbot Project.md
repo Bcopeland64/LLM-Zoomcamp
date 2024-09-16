@@ -7,7 +7,7 @@ As I live overseas, many poeple ask me about this peculiar game of American Foot
 Before beginning, ensure you have the following installed:
 - Docker and Docker Compose
 - Python 3.9 or higher (for local development)
-- An OpenAI API key (required for the language model)
+- An OpenAI/Groq (0r any other) API key (required for the language model)
 
 ### Setting Things Up
 
