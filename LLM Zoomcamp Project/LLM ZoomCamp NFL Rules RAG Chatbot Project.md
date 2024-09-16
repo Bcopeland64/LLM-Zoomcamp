@@ -13,7 +13,7 @@ Before beginning, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```
-   git clone [https://github.com/yourusername/nfl-rules-rag-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/tree/main/LLM%20Zoomcamp%20Project)
+   git clone https://github.com/yourusername/nfl-rules-rag-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/tree/main/LLM%20Zoomcamp%20Project
    cd LLM-Zoomcamp Project
    ```
 
