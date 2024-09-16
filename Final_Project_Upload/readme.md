@@ -1,6 +1,6 @@
 # NFL Rules Chatbot
 
-This project implements a chatbot that answers questions about NFL rules using OpenAI's GPT model. It includes a FastAPI backend, a Dash monitoring dashboard, and a Streamlit frontend for user interaction.
+I am constantly asked by students and friends from overseas about why American Football is so different than international football (what we call soccer), so I decided to make a chatbot that can help explain the game and the rules for people new to the sport. This project uses a RAG chatbot along with a streamlit frontend and uses Dash to monitor the metrics of the chatbot.
 
 ## Features
 
@@ -20,8 +20,8 @@ This project implements a chatbot that answers questions about NFL rules using O
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/nfl-rules-chatbot.git
-   cd nfl-rules-chatbot
+   git clone [https://github.com/yourusername/nfl-rules-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/edit/main/Final_Project_Upload/)
+   cd Final_Project_Upload
    ```
 
 2. Install the required packages:
@@ -105,3 +105,9 @@ streamlit run streamlit_app.py
 ```
 
 Access the frontend in your web browser at `http://localhost:8501`
+
+## Screenshots
+![Screen_1](https://github.com/user-attachments/assets/a5c8f063-1868-4013-8f8e-8bf5199147e1)  ![Screen_2](https://github.com/user-attachments/assets/cb4e329d-5de9-4a5f-92c0-cb0e3dc56960)
+
+
+
