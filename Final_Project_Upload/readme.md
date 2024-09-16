@@ -93,7 +93,6 @@ This application uses `getpass` to securely input the OpenAI API key. The key is
 ## Limitations
 
 - This chatbot uses in-memory storage, so data is not persistent between restarts
-- The current implementation doesn't include a full Retrieval-Augmented Generation (RAG) system
 - The API key needs to be entered each time the application is started
 
 ## Running the Frontend
