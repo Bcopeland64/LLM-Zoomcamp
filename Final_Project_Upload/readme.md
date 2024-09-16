@@ -20,7 +20,7 @@ I am constantly asked by students and friends from overseas about why American F
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/nfl-rules-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/edit/main/Final_Project_Upload/)
+   git clone https://github.com/yourusername/nfl-rules-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/edit/main/Final_Project_Upload/
    cd Final_Project_Upload
    ```
 
