@@ -1,20 +1,6 @@
 # NFL Rules RAG Chatbot
 
-Welcome to the NFL Rules RAG (Retrieval-Augmented Generation) Chatbot project. This chatbot is designed as an intelligent assistant that can answer questions based on a custom knowledge base of NFL rules. It's ideal for providing accurate, context-aware responses to specific queries about NFL regulations.
-
-## What's in the Box?
-
-Our chatbot comes with several advanced features:
-- Automatically ingests and processes NFL rules data
-- Uses a combination of vector and text-based search for improved results
-- Rearranges documents to find the most relevant information
-- Rewrites user questions to better understand their intent
-- Provides a web interface for easy interaction
-- Includes a dashboard to monitor performance
-- Packaged in Docker for simple setup and deployment
-- Uses getpass for secure API key management
-
-## Let's Get Started!
+As I live overseas, many poeple ask me about this peculiar game of American Football, not to be confused with international football (that we Americans call Soccer). So, I thought I would create a RAG chatbot that can help anyone new to the game of football how to play, score, and learn the rules. I used the official NFL (National Football League) rulebook from 2023. Hopefully, this can help everyone around the world learn about this wonderful game that we Americans love so much!
 
 ### Prerequisites
 
@@ -27,11 +13,11 @@ Before beginning, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/nfl-rules-rag-chatbot.git
-   cd nfl-rules-rag-chatbot
+   git clone [https://github.com/yourusername/nfl-rules-rag-chatbot.git](https://github.com/Bcopeland64/LLM-Zoomcamp/tree/main/LLM%20Zoomcamp%20Project)
+   cd LLM-Zoomcamp Project
    ```
 
-2. The project uses getpass to securely input your OpenAI API key at runtime. You don't need to set up any environment variables for the API key.
+2. The project uses getpass to securely input your OpenAI/Groq API key at runtime. You don't need to set up any environment variables for the API key.
 
 3. Build and start the Docker containers:
    ```
@@ -49,7 +35,7 @@ Before beginning, ensure you have the following installed:
 
 To populate the chatbot with NFL rules data:
 
-1. Place your NFL rules data files (in JSON format) in the `data/raw/` directory.
+1. Place the NFL rules pdf data files (in JSON format) in the project directory.
 
 2. Run the ingestion process:
    ```
