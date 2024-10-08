@@ -18,11 +18,7 @@ The Hobbit Q&A Project is an interactive question-answering system based on J.R.
 
 ## Features
 
-- Interactive command-line interface for asking questions about "The Hobbit"
-- Utilizes advanced NLP techniques for accurate and context-aware answers
-- Integration with Prometheus for metrics collection
-- Grafana dashboard for visualizing system performance
-- Docker support for easy deployment and scalability
+This QA Chatbot is designed to answer all Hobbit related questions for anyone interested in this part of Tolkein's legendarium. I have also added additional texts in the event that the user wants to explore other parts of the Tolkein lore including the Silmarillion and the Lord of the Rings.
 
 ## Prerequisites
 
@@ -99,6 +95,8 @@ The project includes Prometheus for metrics collection and Grafana for visualiza
 - Grafana: Access at `http://localhost:3000`
   - Default login: admin/admin
   - Import the provided dashboard JSON file for a pre-configured Hobbit Q&A dashboard
+    
+I have included two files for evaluation including Grafana or the monitor.py file. This gives users two options of monitoring the chatbot metrics. **It should be noted that this application runs best with a GPU. It can run locally, but the compute times can be heavy, especially in the case of the evaluation.py file (run at your own risk)
 
 Metrics collected:
 
@@ -106,3 +104,11 @@ Metrics collected:
 - Query processing latency
 
 ## Screenshots
+![Screenshot from 2024-10-08 11-57-34](https://github.com/user-attachments/assets/d3abe094-5646-4c9c-a32f-5ff9edde2946)
+![Screenshot from 2024-10-08 11-53-51](https://github.com/user-attachments/assets/17e315dc-d590-4a31-8bec-1be20027d8d0)
+![Screenshot from 2024-10-08 11-53-23](https://github.com/user-attachments/assets/e13e7f4f-6b48-48b2-b300-326a78a42633)
+![Screenshot from 2024-10-07 20-11-30](https://github.com/user-attachments/assets/f3781289-6a77-4659-8ef0-5e70deea9f11)
+![Screenshot from 2024-10-07 20-09-56](https://github.com/user-attachments/assets/79adcb0e-9e0a-4f58-8b7f-c79f501cad88)
+![Screenshot from 2024-10-07 20-08-31](https://github.com/user-attachments/assets/24063645-f5b0-43c8-8df6-9b12bb4cf159)
+
+
