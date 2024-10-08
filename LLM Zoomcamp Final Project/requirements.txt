@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+langchain-groq
+scikit-learn
+chromadb
+beyondllm
+pydantic
