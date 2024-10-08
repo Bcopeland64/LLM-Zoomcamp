@@ -104,7 +104,7 @@ The project includes Prometheus for metrics collection and Grafana for visualiza
 - Default login: admin/admin
 - Import the provided dashboard JSON file for a pre-configured Hobbit Q&A dashboard.
 
-I have included two files for evaluation including Grafana or the monitor.py file. This gives users two options of monitoring the chatbot metrics. **It should be noted that this application runs best with a GPU. It can run locally, but the compute times can be heavy, especially in the case of the evaluation.py file (run at your own risk).**
+I have included two files for evaluation including Grafana or the monitor.py file. This gives users two options for monitoring the chatbot metrics. **It should be noted that this application runs best with a GPU. It can run locally, but compute times can be heavy, especially in the case of the evaluation.py file (run at your own risk).**
 
 Metrics collected:
 
