@@ -103,6 +103,7 @@ The project includes Prometheus for metrics collection and Grafana for visualiza
 - Grafana: Access at `http://localhost:3000`
 - Default login: admin/admin
 - Import the provided dashboard JSON file for a pre-configured Hobbit Q&A dashboard.
+- Make sure that both Prometheus and Grafana are already setup on your system
 
 I have included two files for evaluation including Grafana or the monitor.py file. This gives users two options for monitoring the chatbot metrics. **It should be noted that this application runs best with a GPU. It can run locally, but compute times can be heavy, especially in the case of the evaluation.py file (run at your own risk).**
 
