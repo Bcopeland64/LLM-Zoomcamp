@@ -25,7 +25,7 @@ This QA Chatbot is designed to answer all Hobbit-related questions for anyone in
 - Python 3.8 or higher
 - Groq API key
 - Docker and Docker Compose (for Docker setup)
-- "The Hobbit" text file (not provided due to copyright)
+- "The Hobbit" text file 
 
 ## Setup and Installation
 
